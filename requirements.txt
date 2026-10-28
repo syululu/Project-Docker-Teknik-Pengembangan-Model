@@ -1,0 +1,20 @@
+#data processing
+pandas
+numpy
+
+# machine learning
+scikit-learn
+xgboost
+joblib
+
+#visualization
+matplotlib
+
+#backend
+fastapi
+uvicorn
+pydantic
+
+#web interface
+streamlit
+requests
